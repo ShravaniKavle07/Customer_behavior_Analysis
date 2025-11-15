@@ -235,5 +235,5 @@ This project delivers:
 For collaboration:
 
 * **Name:** Shravani Kavle
-* **Email:** shravanikavle369@gmail.com)
+* **Email:** shravanikavle369@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/shravanikavle07/
