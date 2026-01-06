@@ -4,7 +4,7 @@ A  data analytics project on customer shopping behavior using Python, SOL and Po
 
 
 ##  
-**1. Overview
+**1. Overview**
 
 This project analyzes **3,900 customer shopping transactions** to uncover insights about spending behavior, product trends, discount usage, and customer segments.
 
@@ -32,7 +32,7 @@ This project highlights strong analytical thinking, technical skills, and storyt
 
 
 ## 
-**2. Dataset
+**2. Dataset**
 
 * **Rows:** 3,900
 * **Columns:** 18
@@ -83,7 +83,7 @@ The dataset required thorough cleaning and feature engineering before SQL and Po
 
 
 ## 
-**4. Project Steps (Workflow)
+**4. Project Steps (Workflow)**
 
 ### **Step 1: Data Loading (Python)**
 
@@ -172,7 +172,7 @@ Executed SQL queries to answer key business questions:
 
 
 ## 
-**5. Power BI Dashboard
+**5. Power BI Dashboard**
 
 Dashboard includes:
 
@@ -194,7 +194,7 @@ Dashboard includes:
 The dashboard enables interactive filtering and exploration.
 
 ## 
-**6. Results & Key Findings
+**6. Results & Key Findings**
 
 Key insights derived:
 
