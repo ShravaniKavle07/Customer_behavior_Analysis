@@ -54,7 +54,7 @@ The dataset required thorough cleaning and feature engineering before SQL and Po
   * Some missing values
   * Requires cleaning and preprocessing
 
-> *Note: You can replace this section with your actual dataset description if needed.*
+
 
 
 ## 
